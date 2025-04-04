@@ -1,3 +1,3 @@
-# CSC394
+# CSC394Spring2025
 
 ##Example
